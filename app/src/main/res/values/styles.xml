@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Launcher.Button" parent="Widget.Material3Expressive.Button">
+        <item name="backgroundTint">@color/button_color</item>
+        <item name="cornerRadius">0dp</item>
+    </style>
+</resources>
